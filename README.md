@@ -10,11 +10,6 @@
 
 ---
 
-## 🌐 Demo  
-🚧 Live demo coming soon  
-
----
-
 ## 🛠 Tech Stack  
 
 <p align="center">
