@@ -46,3 +46,5 @@
 #### Backend (Spring Boot)  
 ```bash
 mvn spring-boot:run
+npm install
+npm start
